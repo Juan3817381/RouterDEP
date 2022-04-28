@@ -1,5 +1,5 @@
 # RouterDEP
-RouterDEP es un script en bash para hacer ataque deauth y comprobar si vuestro router es vulnerable. NO ME HAGO RESPONSABLE DEL MAL USO
+RouterDEP es un script en bash para hacer ataque deauth y comprobar si vuestro router es vulnerable. NO ME HAGO RESPONSABLE DEL MAL USO.
 INSTALACION:
 apt install airmon-ng
 apt install macchanger
