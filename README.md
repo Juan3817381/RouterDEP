@@ -5,5 +5,6 @@ apt install airmon-ng
 apt install macchanger
 apt install xterm
 apt install airodump-ng
+apt install mdk4
 git clone https://github.com/Juan3817381/RouterDEP
 GRACIAS POR PROBAR MI PROGRAMA :)
